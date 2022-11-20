@@ -15,3 +15,9 @@ DNS | 53
 NTP | 123 | Time
 STUN | 3478 | Audio / Video calls
 
+
+Important points
+
+- Create a new user with admin privileges.
+- Disable admin user to login.
+- Change the port number of pfsense login dashboard.
