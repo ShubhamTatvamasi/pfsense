@@ -1,5 +1,7 @@
 # pfsense
 
+https://sgpfiles.netgate.com/mirror/downloads/
+
 libvirt setup:
 
 pfsense 2.6 - FreeBSD 12.3
