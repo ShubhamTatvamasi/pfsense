@@ -18,6 +18,10 @@ DNS | 53
 NTP | 123 | Time
 STUN | 3478 | Audio / Video calls
 
+Username: admin,
+
+Password: pfsense
+
 
 Important points
 
