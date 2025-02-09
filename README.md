@@ -1,6 +1,6 @@
 # pfsense
 
-https://sgpfiles.netgate.com/mirror/downloads/
+https://repo.ialab.dsu.edu/pfsense/
 
 libvirt setup:
 
